@@ -1,0 +1,30 @@
+    1. 2020-适用于 Windows 10 Version 1809 的 02 累积更新 (KB4532691) 安全更新程序
+    ─2020/2/10 ─284.7 MB/132.2 MB
+    http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/02/windows10.0-kb4532691-x64_6cc9bd762dba5f7f692321efae5386700de3bf94.msu
+    http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/02/windows10.0-kb4532691-x86_797edb76a77d9b71b92a16e58860c7083ac667cb.msu
+    2. 2020-02 适用于 Windows 10 Version 1809 的 .NET Framework 3.5、4.7.2 和 4.8 的累积更新 (KB4538122) 更新程序
+    ─2020/2/6 ─143.7 MB/81.7 MB
+    http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/01/windows10.0-kb4534131-x64-ndp48_c52c7f486cc74de9a0813ed50dde31a87594ce5d.msu
+    http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/01/windows10.0-kb4534119-x64_a2dce2c83c58ea57145e9069f403d4a5d4f98713.msu
+    http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/01/windows10.0-kb4534119-x86_0ab6855290688e20cc662956f58c7b301aa9ce27.msu
+    http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/01/windows10.0-kb4534131-x86-ndp48_8c3c3b47ab865fcd2e3acf4f6d41d92aa45558a9.msu
+    3. 2020-适用于 Windows 10 Version 1809 的 01 更新 (KB4494174) 更新程序
+    ─2020/1/29 ─2.5 MB
+    http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/01/windows10.0-kb4494174-v3-x64_9c36175029e926f7d98c38765707f976aac882a9.msu
+    http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/01/windows10.0-kb4494174-v3-x86_4bbfcde737ef10e7bf07c25946f7f8f78e91c226.msu
+    4. 2020-02 Dynamic Update for Windows 10 Version 1809 -based Systems (KB4532690) Critical Updates
+    ─2020/2/10 ─8.9 MB/7.7 MB
+    http://download.windowsupdate.com/c/msdownload/update/software/crup/2020/02/windows10.0-kb4532690-x64_489e7d490aed03dc1de896555941d21928947f5c.cab
+    http://download.windowsupdate.com/c/msdownload/update/software/crup/2020/02/windows10.0-kb4532690-x86_774c3c3c871da3ae751ef38d38e95103ac56f7f8.cab
+    5. 2019-适用于 Windows 10 Version 1809 的 11 服务堆栈更新 (KB4523204) 安全更新程序
+    ─2019/11/11 ─13.6 MB/6.1 MB
+    http://download.windowsupdate.com/c/msdownload/update/software/secu/2019/11/windows10.0-kb4523204-x64_57098d9954748b2d7d767f73f60493bc592ff286.msu
+    http://download.windowsupdate.com/d/msdownload/update/software/secu/2019/11/windows10.0-kb4523204-x86_f45d6a2ae49f82d3e99584b573d4ce27d61b78d4.msu
+    6. 2019-适用于 Windows 10 Version 1809 的 11 更新 (KB4514987) 更新程序
+    ─2019/11/6 ─627 KB/928 KB
+    http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/11/windows10.0-kb4514987-v2-x64_c316ddd26337c31254b44153a1d1c06687f60309.msu
+    http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/11/windows10.0-kb4514987-v2-x86_fcd57d0b46052547413d2dd0a5b75172f029da88.msu2019/11/6
+    7. 2019-适用于 Windows 10 Version 1809 的 02 更新 (KB4465065) 更新程序
+    ─2019/6/11 ─2.2 MB
+    http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/02/windows10.0-kb4465065-v3-x64_37c6c7186ff2f8168dae6087464df6c27b3fc80f.msu
+    http://download.windowsupdate.com/c/msdownload/update/software/updt/2019/02/windows10.0-kb4465065-v3-x86_d147f02258d72a454f393427ce3730701c46a2f9.msu

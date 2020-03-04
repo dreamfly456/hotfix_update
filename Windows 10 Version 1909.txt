@@ -1,0 +1,20 @@
+    1. 2020-适用于 Windows 10 Version 1909 的 02 服务堆栈更新 (KB4538674) 安全更新程序
+    ─2020/2/10 ─14.4 MB/6.5 MB	
+    http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/02/windows10.0-kb4538674-x64_d181b6a4a516b43bc58cbc15347b83219dccee86.msu
+    http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/02/windows10.0-kb4538674-x86_72edfc2887af04541831723799b45f4cbf4396a1.msu	
+    2. 2020-适用于 Windows 10 Version 1909 的 02 累积更新 (KB4532693) 安全更新程序
+    ─2020/2/10 ─340.2 MB/179.7 MB
+    http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/02/windows10.0-kb4532693-x64_e22f60a077a0ec5896266a18cc3daf26bfc29e16.msu
+    http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/02/windows10.0-kb4532693-x86_149a95ca991206cf8df78d172250c55fec5a4fad.msu
+    3. 2020-02 适用于 Windows 10 Version 1909 的 .NET Framework 3.5 和 4.8 的累积更新 (KB4534132) 更新程序
+    ─2020/2/6 ─68.3 MB/39.7 MB
+    http://download.windowsupdate.com/d/msdownload/update/software/updt/2020/01/windows10.0-kb4534132-x64-ndp48_21067bd5f9c305ee6a6cee79db6ca38587cb6ad8.msu
+    http://download.windowsupdate.com/d/msdownload/update/software/updt/2020/01/windows10.0-kb4534132-x86-ndp48_5ab41114b84fea9b1e39ec803e0b5f435af85f9f.msu
+    4. 2020-02 Dynamic Update for Windows 10 Version 1909 -based Systems (KB4532692) Critical Updates
+    ─2020/2/10 ─11.9 MB/10.3 MB
+    http://download.windowsupdate.com/d/msdownload/update/software/crup/2020/02/windows10.0-kb4532692-x64_9c4a8819218d4c81863545e3772f6030c93eed1f.cab
+    http://download.windowsupdate.com/d/msdownload/update/software/crup/2020/02/windows10.0-kb4532692-x86_c74c419c7df7c2200c4e9b5a5295f30446f78cb2.cab
+    5. 2019-适用于 Windows 10 Version 1909 的 11 更新 (KB4529943) 更新程序
+    ─2019/11/13 ─547 KB/376 KB
+    http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/11/windows10.0-kb4529943-x64_a2b4b156d64859fd549bdc5a2fb2720936f4ee56.msu
+    http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/11/windows10.0-kb4529943-x86_e68d21a7442d9fe12916ffed06ca64be75f4865b.msu 
