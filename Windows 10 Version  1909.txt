@@ -18,3 +18,4 @@
     ─2019/11/13 ─547 KB/376 KB
     http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/11/windows10.0-kb4529943-x64_a2b4b156d64859fd549bdc5a2fb2720936f4ee56.msu
     http://download.windowsupdate.com/d/msdownload/update/software/updt/2019/11/windows10.0-kb4529943-x86_e68d21a7442d9fe12916ffed06ca64be75f4865b.msu 
+ 
