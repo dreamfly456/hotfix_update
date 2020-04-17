@@ -10,6 +10,6 @@ http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/03/wind
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2020/01/windows10.0-kb4494452-v4-x64_15139784b24a52f3e658dd1685f7b676c93d04c8.msu
 http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/01/windows10.0-kb4494452-v4-x86_5de3c7bca4fbe0dde30814ab6453532e4b53811f.msu
 
-4. 2020-02 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1709 f (KB4537478) Updates -2020/2/24 -51.2 MB/29.2 MB
+4. 2020-02 Cumulative Update for .NET Framework 4.8 for Windows 10 Version 1709  (KB4537478) Updates -2020/2/24 -51.2 MB/29.2 MB
 http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/02/windows10.0-kb4537478-x64-ndp48_88ada047f1bae35fa87343eed98b3952c5e883a0.msu
 http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/02/windows10.0-kb4537478-x86-ndp48_b4580792eb1a93816db01cf37f3a9379855ea799.msu
