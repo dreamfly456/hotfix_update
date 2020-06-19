@@ -1,0 +1,9 @@
+# 1909 64位补丁下载地址：
+    http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/06/windows10.0-kb4567512-x64_2ea636c671529de2154d48a1181c0f02cd919da5.msu
+    http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/06/windows10.0-kb4560959-x64_fa9ef89ecea4001891b24f103689cff8ae87d2f1.msu
+    http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/05/windows10.0-kb4552931-x64_2db4f6d9a62833406875986aae69351f82f3ca2b.msu
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# 1909 32位补丁下载地址：
+    http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/06/windows10.0-kb4567512-x86_739e4438ef1c036a4b00641a9ab9bf609bb9f39e.msu
+    http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/06/windows10.0-kb4560959-x86_896948b22a58fed53722e8c751b6e0bcaceec74f.msu
+    http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/05/windows10.0-kb4552931-x86_696ac4919db380f27eea10b449108851c289fa73.msu	
