@@ -1,0 +1,15 @@
+# Windows 10 Version 1709 64位补丁下载地址：
+    http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/07/windows10.0-kb4569748-x64-ndp48_ba91cf15a389f5fce245379a1a6fc5eb0849e963.msu
+    http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/08/windows10.0-kb4571741-x64_3bb8fcf024e30692ebdbaac952e7617dca81caf4.msu
+    http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/07/windows10.0-kb4565553-x64_37666386a4858aed971874a72cb8c07155c26a87.msu
+    http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/06/windows10.0-kb4561600-x64_d99268e241629a0a0304c0a12352d58f20bdc29e.msu
+    http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/06/windows10.0-kb4023057-x64_9e0c15b1fbe35d9786ed7b778fc880b9f9ef9761.cab
+    http://download.windowsupdate.com/d/msdownload/update/software/updt/2020/01/windows10.0-kb4494452-v4-x64_15139784b24a52f3e658dd1685f7b676c93d04c8.msu
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# Windows 10 Version 1709 32位补丁下载地址：
+    http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/07/windows10.0-kb4569748-x86-ndp48_54b5dcdc5acc432bcb533354ce6537de03178e94.msu
+    http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/08/windows10.0-kb4571741-x86_23c950e5e7767f96ba997f311cb55842db57ce33.msu
+    http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/07/windows10.0-kb4565553-x86_101e7e49f961c167004b225d4d1f2ccda2c01dd3.msu
+    http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/06/windows10.0-kb4561600-x86_5bdf5c4bd6d910279ca981112b2fa8769a817068.msu
+    http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/06/windows10.0-kb4023057-x86_b0f4d1f466692ff57b57b9f008af7ef1ae945c04.cab
+    http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/01/windows10.0-kb4494452-v4-x86_5de3c7bca4fbe0dde30814ab6453532e4b53811f.msu 

@@ -1,0 +1,13 @@
+# Windows 10 Version 1909 1903 64位补丁下载地址：
+    http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows10.0-kb4569751-x64-ndp48_99e0fedbc8108ac53c27032c7d2fa08e21bcd22f.msu
+    http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/08/windows10.0-kb4565351-x64_e4f46f54ab78b4dd2dcef193ed573737661e5a10.msu
+    http://download.windowsupdate.com/d/msdownload/update/software/updt/2020/07/windows10.0-kb4562900-x64-ndp48_ded1605ba5eb962e7df492509cc87b2ad4f4beae.msu
+    http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/06/windows10.0-kb4561600-x64_a4b791e4fcc808a1ecd7b3d051fc0e4113789ef2.msu
+    http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/01/windows10.0-kb4497165-v4-x64_56bf6498dd6757ab61790f40b464c1349c195c11.msu
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# Windows 10 Version 1909 1903 32位补丁下载地址：
+    http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/07/windows10.0-kb4569751-x86-ndp48_34cc6a99eb29bec8b4c6442a836ce037447ac5fb.msu
+    http://download.windowsupdate.com/c/msdownload/update/software/secu/2020/08/windows10.0-kb4565351-x86_a3d62a06c46999275097db772fb98d53619828cc.msu
+    http://download.windowsupdate.com/d/msdownload/update/software/updt/2020/07/windows10.0-kb4562900-x86-ndp48_50b41a523b694cdc5b12a14d2711305aff1b87bc.msu
+    http://download.windowsupdate.com/d/msdownload/update/software/secu/2020/06/windows10.0-kb4561600-x86_79076fa1b0b4ac66824c02e56ed24435a183bc9f.msu
+    http://download.windowsupdate.com/d/msdownload/update/software/updt/2020/01/windows10.0-kb4497165-v4-x86_140a67bc9514a8d15f5e813c6f8d3a472037d8e1.msu 
