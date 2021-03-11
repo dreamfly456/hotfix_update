@@ -1,0 +1,13 @@
+# Windows 10 Version 1607 LTSB 操作系统补丁 64位补丁下载地址：
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/01/windows10.0-kb4589210-v2-x64_bbbf54336d6e22da5de8d63891401d8f6077d2ce.msu
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/03/windows10.0-kb5000803-x64_0d1c8a35a2c0a30245f33b66590cb3ece2039865.msu
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/02/windows10.0-kb5001078-x64_6bdd193b6f54fa8d068f031775b1932e26703f73.msu
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/01/windows10.0-kb4601051-x64-ndp48_85c646a43918fc1cc03bc9b1b04228ec3d44d01e.msu
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/03/windows10.0-kb4550993-x64-ndp48_f193152dd33ee54ed353b0eceacfec89d2226c14.msu
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# Windows 10 Version 1607 LTSB 操作系统补丁 32位补丁下载地址：
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/01/windows10.0-kb4589210-v2-x86_b7c4b602d424b7968fdea289a2b4a4a96ccbe4ef.msu
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/03/windows10.0-kb5000803-x86_57c5d5e2f06956a3d9f069dc9f8faffc31c656e7.msu
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/02/windows10.0-kb5001078-x86_3c8ca2da7a57beee20ab32b4cf909d1aa5b46390.msu
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/01/windows10.0-kb4601051-x86-ndp48_1376a62562f11e9c4dd7984e7f6a74154b3834e5.msu
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/03/windows10.0-kb4550993-x86-ndp48_bf846d84061bd1e3df314313ee2c1d082cc8217f.msu
