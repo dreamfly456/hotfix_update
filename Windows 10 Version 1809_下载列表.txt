@@ -1,0 +1,13 @@
+# Windows 10 Version 1809 64位补丁下载地址：
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/05/windows10.0-kb5003243-x64_81350c4efec5a183725fda73091c9ee9d4577bc3.msu
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/05/windows10.0-kb5003171-x64_30162051d5376b7a19c4c25157347c522e804bbb.msu
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/10/windows10.0-kb4577586-x64_d0f434327db9e3308b86591c248c825c03687632.msu
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/01/windows10.0-kb4601055-x64-ndp48_433f80c4aa1a9613e8a57357e3f07a2cdccdad1b.msu
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2020/11/windows10.0-kb4589208-x64_90b849e7a6e699c7ce2f775e7df1410e5fcb5f22.msu
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# Windows 10 Version 1809 32位补丁下载地址：
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/05/windows10.0-kb5003243-x86_d291d08679c83237bc807fe45b0cc6e1370c61f1.msu
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/05/windows10.0-kb5003171-x86_abffc1521d18a4fbf9d5aed15f75ea4094965f31.msu
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2020/10/windows10.0-kb4577586-x86_947f151a8bb5a0b0797702e53431c52d56c02c32.msu
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/01/windows10.0-kb4601055-x86-ndp48_536d1da1fa10d0c2ee3f616f6419ee1d67b0293b.msu
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2020/11/windows10.0-kb4589208-x86_bcecb619f05a87cd2c4abc13ee168ae840ed3756.msu
