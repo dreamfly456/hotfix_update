@@ -1,0 +1,13 @@
+# Win10 V1809 LTSC 64位补丁下载地址：
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/07/windows10.0-kb5004244-x64_5685623313a6de061e0c42fed3391c29750a6b1b.msu
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/05/windows10.0-kb5003538-x64-ndp48_cd3b6f374205c026b1da2660db47e7975f97453e.msu
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/06/windows10.0-kb5003711-x64_577dc9cfe2e84d23b193aae2678b12e777fc7e55.msu
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/10/windows10.0-kb4577586-x64_d0f434327db9e3308b86591c248c825c03687632.msu
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2020/11/windows10.0-kb4589208-x64_90b849e7a6e699c7ce2f775e7df1410e5fcb5f22.msu
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# Win10 V1809 LTSC 32位补丁下载地址：
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/07/windows10.0-kb5004244-x86_f3b02d749e702248c4932721f5f58c2fc6378684.msu
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/05/windows10.0-kb5003538-x86-ndp48_57cbd716a01960ef8232f2cb7d2f9b0d385912e3.msu
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/06/windows10.0-kb5003711-x86_70a7ef9f67506eaeac5ae1747e90220e04e22492.msu
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2020/10/windows10.0-kb4577586-x86_947f151a8bb5a0b0797702e53431c52d56c02c32.msu
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2020/11/windows10.0-kb4589208-x86_bcecb619f05a87cd2c4abc13ee168ae840ed3756.msu
