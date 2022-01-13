@@ -1,7 +1,0 @@
-# Windows 10 Version 21H2 LTSC 64位补丁下载地址：
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/12/windows10.0-kb5008212-x64_aef75b014bf6a8b9f858533d9dafb07c6f6fb741.msu
-http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/09/windows10.0-kb5006365-x64-ndp48_a78458584d144b4adc86e78905bef7adaac1a311.msu
-- - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# Windows 10 Version 21H2 LTSC 32位补丁下载地址：
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/12/windows10.0-kb5008212-x86_ae7611462ceaac2536f35f1b1fa34a2add032a63.msu
-http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/09/windows10.0-kb5006365-x86-ndp48_8dd21fb5823df83d353c2fcb1a6c6b0d80512731.msu
