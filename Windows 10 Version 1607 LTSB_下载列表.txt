@@ -1,0 +1,21 @@
+# Windows 10 Version 1607 LTSB 64位补丁下载地址：
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/08/windows10.0-kb5017095-x64_62314b87d461b2e0005bc272b637be4b86a2753b.msu
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/08/windows10.0-kb5016622-x64_77ff4c1d896b008e41f7804648f64ae9bd467f4c.msu
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2022/07/windows10.0-kb5016373-x64-ndp48_fd8b73694746c825d6429a6fe8a1409d1ce30314.msu
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows10.0-kb5012170-x64_86ba489f2c26bf1e6073e6584eb2b08f577b5dd7.msu
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2022/02/windows10.0-kb5011264-x64-ndp48_0c1533f247bd4d26cc07ca77390f21285defaa79.msu
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/01/windowsth-kb2693643-x64_05ffcbe238e7ee37d0b228f492291ad944bab3a1.msu
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/10/windows10.0-kb4577586-x64_809b9640d04c5af4c7e78499052abaa936cb670a.msu
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/01/windows10.0-kb4589210-v2-x64_bbbf54336d6e22da5de8d63891401d8f6077d2ce.msu
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/03/windows10.0-kb4550993-x64-ndp48_f193152dd33ee54ed353b0eceacfec89d2226c14.msu
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# Windows 10 Version 1607 LTSB 32位补丁下载地址：
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows10.0-kb5017095-x86_67f30659558127f48914e3ab708b0be8fad70e1a.msu
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows10.0-kb5016622-x86_6c37257accbd13d4954e7371375c0a07cbe70955.msu
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2022/07/windows10.0-kb5016373-x86-ndp48_7a9fd2199de4d5cadbe3e560d63bf3c1ea6d945a.msu
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows10.0-kb5012170-x86_85c835ef88ff8a7ee7feee6b38a3fa9945d140cd.msu
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2022/02/windows10.0-kb5011264-x86-ndp48_b227dee53a897eb21be7e46c3c449449be570c37.msu
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/01/windowsth-kb2693643-x86_da588e4903114f756423782e52932c7b96ef3ba8.msu
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2020/10/windows10.0-kb4577586-x86_97a4f342e91e40b921727a8b944a29f7155f3ca1.msu
+http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/01/windows10.0-kb4589210-v2-x86_b7c4b602d424b7968fdea289a2b4a4a96ccbe4ef.msu
+http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/03/windows10.0-kb4550993-x86-ndp48_bf846d84061bd1e3df314313ee2c1d082cc8217f.msu
