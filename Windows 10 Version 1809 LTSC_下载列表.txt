@@ -1,5 +1,0 @@
-# 1809 64位补丁下载地址：
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2023/05/windows10.0-kb5026362-x64_6984e22fb6e5980f59d8731da8b38415146acb50.msu
-- - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# 1809 32位补丁下载地址：
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2023/05/windows10.0-kb5026362-x86_16beef5b59eb6b1fd8959ca0bcc98e4a31f5a1b0.msu
