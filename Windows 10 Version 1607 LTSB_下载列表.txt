@@ -1,0 +1,5 @@
+# 1607 64位补丁下载地址：
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2023/05/windows10.0-kb5026363-x64_8fc1ee2832426d09b9b6088873afc82420609730.msu
+- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# 1607 32位补丁下载地址：
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2023/05/windows10.0-kb5026363-x86_977e6cc814f7d7e7368d74d80a11cf66eb791525.msu
