@@ -1,5 +1,0 @@
-# 21H2 64位补丁下载地址：
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2023/05/windows10.0-kb5026361-x64_961f439d6b20735f067af766e1813936bf76cb94.msu
-- - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# 21H2 32位补丁下载地址：
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2023/05/windows10.0-kb5026361-x86_5861f2d9fce08abba0ae33d7891a43aeeaea27bd.msu
