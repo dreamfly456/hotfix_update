@@ -1,13 +1,5 @@
-# Windows 10 Version 21H2 LTSC 64位补丁下载地址：
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2023/04/windows10.0-kb5025221-x64_4cd9fd91665e48fc9a7941376973e2e41c4308e2.msu
-http://download.windowsupdate.com/d/msdownload/update/software/updt/2023/02/windows10.0-kb5019180-x64_90a066b0e5fca50d9c75d990fdb89c0e12b987ac.msu
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/12/windows10.0-kb5022502-x64-ndp48_1c8db95b6897031eb6bbd7ab33e9a217bcf07012.msu
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows10.0-kb5012170-x64_47b8ba3bb35c66bbd0631f5425805ccf1dafaf67.msu
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/ssu-19041.1704-x64_70e350118b85fdae082ab7fde8165a947341ba1a.msu
+# 21H2 64位补丁下载地址：
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2023/05/windows10.0-kb5026361-x64_961f439d6b20735f067af766e1813936bf76cb94.msu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# Windows 10 Version 21H2 LTSC 32位补丁下载地址：
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2023/04/windows10.0-kb5025221-x86_6e79b9b4f593c79c85aa834e281d3e08b0214ed4.msu
-http://download.windowsupdate.com/d/msdownload/update/software/updt/2023/02/windows10.0-kb5019180-x86_d4a21cd3c5165b7fa57e7b8b9fa26a7126fc53c3.msu
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/12/windows10.0-kb5022502-x86-ndp48_7ad2eb056314cb8a8ddf925e032668659339efdb.msu
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows10.0-kb5012170-x86_c2557ae14f54f3523ffc156c2f16ce4547254560.msu
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/05/ssu-19041.1704-x86_3cec66c3891a613e6656f141547e573f9d700d35.msu
+# 21H2 32位补丁下载地址：
+http://download.windowsupdate.com/d/msdownload/update/software/secu/2023/05/windows10.0-kb5026361-x86_5861f2d9fce08abba0ae33d7891a43aeeaea27bd.msu

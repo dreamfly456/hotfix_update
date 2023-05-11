@@ -1,17 +1,5 @@
-# Windows 10 Version 1809 LTSC 64位补丁下载地址：
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2023/04/windows10.0-kb5025229-x64_51315f30dd290d51ba049760d7c107c4b90b27c7.msu
-http://download.windowsupdate.com/d/msdownload/update/software/updt/2023/02/windows10.0-kb5019181-x64_01173052877dc5762f73069a958c108afd1125be.msu
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows10.0-kb5022504-x64-ndp48_1febc9659953d8ffa0bd67ee7de672871fab3654.msu
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows10.0-kb5012170-x64_3d468c9eaeeabd42eba636d5429643c386b0beff.msu
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/08/windows10.0-kb5005112-x64_81d09dc6978520e1a6d44b3b15567667f83eba2c.msu
-http://download.windowsupdate.com/c/msdownload/update/software/updt/2020/10/windows10.0-kb4577586-x64_d0f434327db9e3308b86591c248c825c03687632.msu
-http://download.windowsupdate.com/d/msdownload/update/software/updt/2020/11/windows10.0-kb4589208-x64_90b849e7a6e699c7ce2f775e7df1410e5fcb5f22.msu
+# 1809 64位补丁下载地址：
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2023/05/windows10.0-kb5026362-x64_6984e22fb6e5980f59d8731da8b38415146acb50.msu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# Windows 10 Version 1809 LTSC 32位补丁下载地址：
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2023/04/windows10.0-kb5025229-x86_00753b2d80cf3356dbcc47707823d9d08331ea3a.msu
-http://download.windowsupdate.com/d/msdownload/update/software/updt/2023/02/windows10.0-kb5019181-x86_70f3a5e93cebd8396b5f26db50a5153525810421.msu
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2023/01/windows10.0-kb5022504-x86-ndp48_0fe68818f0cbccd35d603b2236cfac7c9537b55c.msu
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2022/08/windows10.0-kb5012170-x86_c70ff8fcb26f9f9650f6117527712e1d7ee19b96.msu
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/08/windows10.0-kb5005112-x86_9c52dee3181a27bdc2a3f7dbbc8391c081c6871d.msu
-http://download.windowsupdate.com/d/msdownload/update/software/updt/2020/10/windows10.0-kb4577586-x86_947f151a8bb5a0b0797702e53431c52d56c02c32.msu
-http://download.windowsupdate.com/d/msdownload/update/software/updt/2020/11/windows10.0-kb4589208-x86_bcecb619f05a87cd2c4abc13ee168ae840ed3756.msu
+# 1809 32位补丁下载地址：
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2023/05/windows10.0-kb5026362-x86_16beef5b59eb6b1fd8959ca0bcc98e4a31f5a1b0.msu
